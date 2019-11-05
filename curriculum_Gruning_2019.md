@@ -4,8 +4,7 @@
 
 NOMBRE COMPLETO Alberto Gruing Rojas  
 FECHA DE NACIMIENTO 17/02/1984  
-E-MAIL gruning.zen@gmail.com   
-CONTACTO https://www.linkedin.com/in/alberto-gruning-rojas-74897a8b  
+CONTACTO [Gmail](gruning.zen@gmail.com) [Linkedin](https://www.linkedin.com/in/alberto-gruning-rojas-74897a8b)  
 CUIL 20-30826091-8  
 TELÉFONO +54 (341) 155 086 222  
 DOMICILIO Molina 1950, Rosario, Sta. Fe, Argentina      
@@ -13,10 +12,10 @@ ESTADO CIVIL Soltero, sin hijos
 
 # ESTUDIOS CURSADOS 
 
-LENGUA EXTRANJERA INGLÉS Dialogo fluido, lectura, escritura y traducción  
-INGENIERIA EN SISTEMAS DE INFORMACIÓN (Con materias regularizadas de 1er y 2do año) :U. T. N Fac Reg Rosario   
-ANALISTA EN SISTEMAS DE INFORMACIÓN  (2do año cursado) Instituto Belgrano www.complejobelgrano.edu.ar  
-NODE.JS (En curso): Academia online _Udemy_ https://www.udemy.com/share/101WGiB0AScFpaQ3w=/
+LENGUA EXTRANJERA INGLÉS Dialogo fluido, lectura, escritura y traducción [Institulo E.L.I.](https://www.eli.edu)  
+INGENIERIA EN SISTEMAS DE INFORMACIÓN (Con materias regularizadas de 1er y 2do año)  [U. T. N.](https://www.frro.utn.edu.ar)   
+ANALISTA EN SISTEMAS DE INFORMACIÓN  (2do año cursado) [Instituto Belgrano](www.complejobelgrano.edu.ar)  
+NODE.JS (En curso): Academia online [Udemy] (https://www.udemy.com/share/101WGiB0AScFpaQ3w=/)
 
 # EXPERIENCIA   LABORAL 
 
