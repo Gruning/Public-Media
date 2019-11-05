@@ -1,5 +1,7 @@
 # CURRICULUM  VITAE
 
+ <img src="https://github.com/Gruning/Public-Media/raw/master/foto_personal.jpg" width=25% align=right>
+
 NOMBRE COMPLETO: Alberto Gruing Rojas  
 FECHA DE NACIMIENTO 17/02/1984  
 E-MAIL gruning.zen@gmail.com   
@@ -15,9 +17,9 @@ Tras 2 años de experiencia en una empresa de informatica y con una constante ca
 
 # ESTUDIOS CURSADOS 
 
-Lengua Extranjera Ingles : Dialogo fluido, lectura, escritura y traducción
-Ingeniería en sistemas de información (Con materias regularizadas de 1er y 2do año) :U. T. N Fac Reg Rosario 
-Analista de sistemas de información (2do año cursado) Instituto Belgrano www.complejobelgrano.edu.ar
+Lengua Extranjera Ingles : Dialogo fluido, lectura, escritura y traducción  
+Ingeniería en sistemas de información (Con materias regularizadas de 1er y 2do año) :U. T. N Fac Reg Rosario   
+Analista de sistemas de información : 2do año cursado  [Instituto Belgrano]:www.complejobelgrano.edu.ar  
 Node JS (En curso): Academia online UDEMY
 
 #EXPERIENCIA   LABORAL 
