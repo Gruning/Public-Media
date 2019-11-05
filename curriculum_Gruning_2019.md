@@ -13,15 +13,15 @@ ESTADO CIVIL Soltero, sin hijos
 
 # PERFIL PROFESIONAL 
 
-Tras 2 años de experiencia en una empresa de informatica y con una constante capacitacion en desarrollo de software, busco seguir mi formacion en una empresa que me permita desarrollar proyectos con los frameworks actuales de Fullstack Responsive Web and Mobile Development
+Tras 3 años de experiencia en una empresa de informatica y con una constante capacitacion en desarrollo de software, busco seguir mi formacion en una empresa que me permita desarrollar proyectos con los frameworks actuales de Fullstack Responsive Web and Mobile Development
 
 # ESTUDIOS CURSADOS 
 
 Lengua Extranjera Ingles : Dialogo fluido, lectura, escritura y traducción  
 Ingeniería en sistemas de información (Con materias regularizadas de 1er y 2do año) :U. T. N Fac Reg Rosario   
-Analista de sistemas de información : 2do año cursado  [Instituto Belgrano]:www.complejobelgrano.edu.ar  
+Analista de sistemas de información  2do año cursado Instituto Belgrano www.complejobelgrano.edu.ar  
 Node JS (En curso): Academia online UDEMY
 
-#EXPERIENCIA   LABORAL 
+# EXPERIENCIA   LABORAL 
 
 A&J Sistemas SRL 2016-2019 : Programador Junior .NET MVC (Oracle SQL, C# , Javascript , Bootstrap ) www.ayjsistemas.com
