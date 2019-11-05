@@ -6,9 +6,9 @@ NOMBRE COMPLETO Alberto Gruing Rojas
 FECHA DE NACIMIENTO 17/02/1984  
 CONTACTO [Gmail](gruning.zen@gmail.com) - [Linkedin](https://www.linkedin.com/in/alberto-gruning-rojas-74897a8b) - [Facebook](http://facebook.com/gruningzen)  
 CUIL 20-30826091-8  
+ESTADO CIVIL Soltero, sin hijos  
 TELÉFONO +54 (341) 155 086 222  
-DOMICILIO Molina 1950, Rosario, Sta. Fe, Argentina      
-ESTADO CIVIL Soltero, sin hijos 
+DOMICILIO Molina 1950, Rosario <iframe src="https://maps.google.com/maps?q=molina%201950%20rosario%20santa%20fe>  
 
 # ESTUDIOS CURSADOS 
 
@@ -19,7 +19,7 @@ NODE.JS (En curso) Academia online [Udemy](https://www.udemy.com/share/101WGiB0A
 
 # EXPERIENCIA   LABORAL 
 
-2016-2019 : Programador Junior .NET MVC (Oracle SQL, C# , Javascript , Bootstrap ) [A&J Sistemas SRL](https://www.ayjsistemas.com)
+2016-2019 : Programador Junior .NET MVC (Oracle SQL, C# , Javascript , Bootstrap ) [A&J Sistemas SRL](https://www.ayjsistemas.com) 
 
 # PERFIL PROFESIONAL 
 
