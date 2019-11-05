@@ -24,4 +24,4 @@ A&J Sistemas SRL 2016-2019 : Programador Junior .NET MVC (Oracle SQL, C# , Javas
 
 # PERFIL PROFESIONAL 
 
-Con 3 años de experiencia en una empresa de informática y con una constante capacitacion en desarrollo de software, busco seguir mi formacion en una empresa que me permita desarrollar proyectos con los _frameworks actuales de Fullstack Responsive Web y Mobile_ 
+Con 3 años de experiencia en una empresa de informática y constantes capacitaciones en desarrollo de software, busco seguir mi formacion en una empresa que permita el desarrollo de proyectos con los _frameworks actuales de Fullstack, Responsive, Web y Mobile_ 
