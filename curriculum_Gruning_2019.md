@@ -10,7 +10,7 @@ ESTADO CIVIL Soltero, sin hijos
 <a href="tel:+543415086222">TELÉFONO - </a> 
 [WHATSAPP](https://wa.me/5493415086222?text=Nos%20comunicamos%20por%20la%20propuesta%20laboral) 341 5 086 222  
 DOMICILIO Molina 1950, Rosario  
-<iframe src="https://maps.google.com/maps?q=molina%201950%20rosario%20santa%20fe>  
+[](<iframe src="https://maps.google.com/maps?q=molina%201950%20rosario%20santa%20fe>)
 
 # ESTUDIOS CURSADOS 
 
