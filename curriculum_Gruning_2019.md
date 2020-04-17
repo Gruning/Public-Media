@@ -23,12 +23,14 @@ NODE.JS (En curso) Academia online [Udemy](https://www.udemy.com/share/101WGiB0A
 
 2016 - 2019 : Junior Developer .NET MVC (Oracle SQL, C# , Javascript , Bootstrap ) [A&J Sistemas SRL](https://www.ayjsistemas.com) 
 
-2019 - 2020 : Fullstack Developer .NET (SQL Server Net Framework 4.9 Razor Kendo UI ) Aplicando desarrollo "Scrum Agile" [NDV Sistemas](www.ndvsistemas.com)
+2019 - 2020 : Fullstack Developer .NET (SQL Server Net Framework 4.9 Razor Kendo UI )  [NDV Sistemas](www.ndvsistemas.com)
  
 # PERFIL PROFESIONAL 
 
 4 años de experiencia en empresas de informática y constantes capacitaciones en software.
 
-Aptitud comprobada en grupos de trabajo presenciales / remotos en infraestructura propia para Remote Work "Home Office"
+Aptitud comprobada en grupos de trabajo presenciales / remotos con metodologias de trabajo Scrum / Agile
+
+Infraestructura propia para Remote Work "Home Office"
 
 Busco seguir mi formacion en una empresa que permita desarrollar proyectos con los _frameworks actuales Fullstack, document store DB,  Responsive Web y Mobile_ 
