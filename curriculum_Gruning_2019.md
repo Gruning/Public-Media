@@ -21,8 +21,14 @@ NODE.JS (En curso) Academia online [Udemy](https://www.udemy.com/share/101WGiB0A
 
 # EXPERIENCIA   LABORAL 
 
-2016-2019 : Programador Junior .NET MVC (Oracle SQL, C# , Javascript , Bootstrap ) [A&J Sistemas SRL](https://www.ayjsistemas.com) 
+2016  2019 : Junior Developer .NET MVC (Oracle SQL, C# , Javascript , Bootstrap ) [A&J Sistemas SRL](https://www.ayjsistemas.com) 
 
+2019 <script type="Javascript">Date().substring(10,15)<script/>  : Fullstack Developer .NET (SQL Server Net Framework 4.9 Razor Kendo UI ) Aplicando desarrollo "Scrum Agile" [NDV Sistemas](www.ndvsistemas.com)
+ 
 # PERFIL PROFESIONAL 
 
-Con 3 años de experiencia en una empresa de informática y constantes capacitaciones en software, busco seguir mi formacion en una empresa que permita desarrollar de proyectos con los _frameworks actuales de Fullstack, Responsive, Web y Mobile_ 
+4 años de experiencia en empresax de informática y constantes capacitaciones en software.
+
+Aptitud comprobada en grupos de trabajo presenciales / remotos en infraestructura propia para Remote Work "Home Office"
+
+Busco seguir mi formacion en una empresa que permita desarrollar proyectos con los _frameworks actuales Fullstack, document store DB,  Responsive Web y Mobile_ 
