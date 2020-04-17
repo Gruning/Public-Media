@@ -27,7 +27,7 @@ NODE.JS (En curso) Academia online [Udemy](https://www.udemy.com/share/101WGiB0A
  
 # PERFIL PROFESIONAL 
 
-4 años de experiencia en empresax de informática y constantes capacitaciones en software.
+4 años de experiencia en empresas de informática y constantes capacitaciones en software.
 
 Aptitud comprobada en grupos de trabajo presenciales / remotos en infraestructura propia para Remote Work "Home Office"
 
