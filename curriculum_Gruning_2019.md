@@ -4,7 +4,7 @@
     <div style="float: left;width: 50%;" align=right>CURRICULUM VITAE</div>
 </h1>  
 
- <img src="https://github.com/Gruning/Public-Media/raw/master/foto_personal.jpg" width=40% align=right>
+ <img src="https://github.com/Gruning/Public-Media/raw/master/foto_personal.jpg" width=35% align=right>
 
 ### NOMBRE Alberto Gruing Rojas  
 ### FECHA DE NACIMIENTO 17/02/1984  
